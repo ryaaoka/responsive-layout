@@ -1,0 +1,3 @@
+sass D:\USR\localhost\bl_platform\style.scss D:\USR\localhost\bl_platform\style.css
+
+sass  --watch D:\USR\localhost\bl_platform\styles.scss:D:\USR\localhost\bl_platform\styles.css --style compressed
